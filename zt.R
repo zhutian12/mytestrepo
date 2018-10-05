@@ -3,3 +3,4 @@ t <- 2
 zt <- z + t
 
 ccm <- z + zt
+zt <- ccm * z
